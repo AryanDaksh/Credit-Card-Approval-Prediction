@@ -1,4 +1,4 @@
-# Credit Card Approval Prediction
+# Credit Card Approval Prediction using Machine Learning Algorithms
 
 This project focuses on predicting whether a credit card application will be approved based on various applicant details. By leveraging machine learning models, the project aims to assist financial institutions in making more accurate and efficient credit approval decisions.
 
@@ -10,7 +10,6 @@ This project focuses on predicting whether a credit card application will be app
 - [Model Training](#model-training)
 - [Contributing](#contributing)
 - [License](#license)
-
 
 ## Technologies Used
 
@@ -38,3 +37,4 @@ The dataset used in this project contains various features of credit card applic
    ```bash
    git clone https://github.com/AryanDaksh/Credit-Card-Approval-Prediction.git
    cd Credit-Card-Approval-Prediction
+
