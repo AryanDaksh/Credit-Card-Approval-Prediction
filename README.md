@@ -38,3 +38,13 @@ The dataset used in this project contains various features of credit card applic
    ```bash
    git clone https://github.com/AryanDaksh/Credit-Card-Approval-Prediction.git
    cd Credit-Card-Approval-Prediction
+
+## Contributing
+
+Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request if you'd like to add new features or improvements.
+
+Feel free to open issues for discussion or questions.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
