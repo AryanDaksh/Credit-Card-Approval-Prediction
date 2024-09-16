@@ -7,7 +7,6 @@ This project focuses on predicting whether a credit card application will be app
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Installation and Setup](#installation-and-setup)
-- [Model Training](#model-training)
 - [Contributing](#contributing)
 - [License](#license)
 
